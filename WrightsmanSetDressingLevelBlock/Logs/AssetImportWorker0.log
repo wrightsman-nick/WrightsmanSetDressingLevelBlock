@@ -1116,3 +1116,188 @@ AssetImportParameters requested are different than current active one (requested
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 2097.628611 seconds.
+  path: Assets/Invector-3rdPersonController_LITE/3D Models/Others/HealthItem/sphereHealthTexture.png
+  artifactKey: Guid(bdfae0d7fc4c1b448a22995843c79ff8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Invector-3rdPersonController_LITE/3D Models/Others/HealthItem/sphereHealthTexture.png using Guid(bdfae0d7fc4c1b448a22995843c79ff8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e14db95e8a394e9349de97490e201ba4') in 0.052128 seconds 
+  Import took 0.057405 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004053 seconds.
+  path: Assets/Invector-3rdPersonController_LITE/3D Models/Others/HealthItem/sphereHealthTexture.png
+  artifactKey: Guid(bdfae0d7fc4c1b448a22995843c79ff8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Invector-3rdPersonController_LITE/3D Models/Others/HealthItem/sphereHealthTexture.png using Guid(bdfae0d7fc4c1b448a22995843c79ff8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e14db95e8a394e9349de97490e201ba4') in 0.005923 seconds 
+  Import took 0.010050 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 92.879137 seconds.
+  path: Assets/Invector-3rdPersonController_LITE/3D Models/Others/HealthItem/vAnimateUV.cs
+  artifactKey: Guid(e9ccff300e5a8e6499d592844b2499d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Invector-3rdPersonController_LITE/3D Models/Others/HealthItem/vAnimateUV.cs using Guid(e9ccff300e5a8e6499d592844b2499d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5b50c225a6199cb5a482800140970ef') in 0.076505 seconds 
+  Import took 0.080259 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003888 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for Lumin target not found
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.44 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.052 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.45 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1870 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 105.0 MB.
+System memory in use after: 105.1 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 2423.
+Total: 2.964700 ms (FindLiveObjects: 0.188700 ms CreateObjectMapping: 0.055800 ms MarkObjects: 2.583300 ms  DeleteObjects: 0.135800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 61.809828 seconds.
+  path: Assets/Invector-3rdPersonController_LITE/3D Models/Textures/prototype_textures/Materials/ladder_chromo.mat
+  artifactKey: Guid(b2b10d5d20df19c4095609048c3bec10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Invector-3rdPersonController_LITE/3D Models/Textures/prototype_textures/Materials/ladder_chromo.mat using Guid(b2b10d5d20df19c4095609048c3bec10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '28da2637055e7accab65b9eaf3154aa5') in 0.066204 seconds 
+  Import took 0.070001 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000399 seconds.
+  path: Assets/Invector-3rdPersonController_LITE/3D Models/Textures/basicTextures/Materials/melee_statuePlate.mat
+  artifactKey: Guid(3736f53dbca7c5e4caa4e9b80d8432cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Invector-3rdPersonController_LITE/3D Models/Textures/basicTextures/Materials/melee_statuePlate.mat using Guid(3736f53dbca7c5e4caa4e9b80d8432cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c75cea3e5088a6ff81a12748427ffa17') in 0.014348 seconds 
+  Import took 0.017336 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000419 seconds.
+  path: Assets/Invector-3rdPersonController_LITE/3D Models/Others/HealthItem/Materials/Material.mat
+  artifactKey: Guid(8975961753f14df47996f4a383999365) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Invector-3rdPersonController_LITE/3D Models/Others/HealthItem/Materials/Material.mat using Guid(8975961753f14df47996f4a383999365) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9e8640f955d5ec29bbb2bbcc8cf716f') in 0.011966 seconds 
+  Import took 0.014943 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004415 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for Lumin target not found
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.40 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.036 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.64 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1870 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 105.0 MB.
+System memory in use after: 105.1 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 2427.
+Total: 2.959600 ms (FindLiveObjects: 0.249600 ms CreateObjectMapping: 0.084300 ms MarkObjects: 2.517300 ms  DeleteObjects: 0.107200 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004166 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for Lumin target not found
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.64 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.135 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.46 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1870 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 105.0 MB.
+System memory in use after: 105.1 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 2430.
+Total: 2.945600 ms (FindLiveObjects: 0.194500 ms CreateObjectMapping: 0.058000 ms MarkObjects: 2.577300 ms  DeleteObjects: 0.114800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003918 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for Lumin target not found
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.40 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.074 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.46 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1870 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 105.1 MB.
+System memory in use after: 105.1 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 2433.
+Total: 2.957800 ms (FindLiveObjects: 0.199700 ms CreateObjectMapping: 0.061500 ms MarkObjects: 2.561400 ms  DeleteObjects: 0.134100 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
